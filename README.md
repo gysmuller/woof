@@ -1,4 +1,4 @@
-# Cat Detector Project
+# WOOF 🐶🙀
 
 A collection of Python scripts for detecting cats using a webcam, with varying levels of complexity and features.
 
